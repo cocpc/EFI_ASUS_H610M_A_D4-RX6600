@@ -1,8 +1,13 @@
 # ASUS_H610M-A_D4-RX6600
 没做任何修改，直接用在我的台式机上，没装无线网卡，所以没测试。其它正常
 
+CPU	Intel Core i5-12490F
+主板	Asus Prime H610M-A D4
+显卡	Sapphire  RX 6600
+硬盘	HP SSD FX900 Pro 1TB
+内存	Kingston FURY 32G (16Gx2)
 
-------
+
 以下是原作者
 
 # EFI_H610M_Gaming
